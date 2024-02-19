@@ -16,3 +16,6 @@ Vercel AI SDK
 New concepts
 Edge runtime
 Retrieval augmented generation
+
+
+1:17:54
